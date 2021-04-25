@@ -11,3 +11,6 @@
 >
 > 4、textBrowser控件输出格式化
 
+尚待完善的点：
+> 1、不选择shell_path，直接点叉号关闭GUI，会出现coredump。
+> 2、待补充
